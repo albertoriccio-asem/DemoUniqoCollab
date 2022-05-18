@@ -1,0 +1,155 @@
+Project:
+ Name: DemoUniqoCollab
+ ProjectNamespaceIndex: 38
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ CoreVersion: 8.0.1.52
+ Dependencies:
+  2:
+   Uri: 'urn:QPlatform:Core:Net'
+   Module: QPlatform.Core.Net
+   Version: 6.2.2.52
+  3:
+   Uri: 'urn:QPlatform:OPCUAServer'
+   Module: QPlatform.OPCUAServer
+   Version: 5.1.25.52
+  4:
+   Uri: 'urn:QPlatform:OPCUAServer:Net'
+   Module: QPlatform.OPCUAServer.Net
+   Version: 3.1.25.52
+  5:
+   Uri: 'urn:QPlatform:CoreBase'
+   Module: QPlatform.CoreBase
+   Version: 8.0.6.52
+  6:
+   Uri: 'urn:QPlatform:CoreBase:Net'
+   Module: QPlatform.CoreBase.Net
+   Version: 5.0.6.52
+  7:
+   Uri: 'urn:QPlatform:UI'
+   Module: QPlatform.UI
+   Version: 44.0.0.32
+  8:
+   Uri: 'urn:QPlatform:UI:Net'
+   Module: QPlatform.UI.Net
+   Version: 32.0.0.32
+  9:
+   Uri: 'urn:QPlatform:Report'
+   Module: QPlatform.Report
+   Version: 3.0.9.52
+  10:
+   Uri: 'urn:QPlatform:Report:Net'
+   Module: QPlatform.Report.Net
+   Version: 3.0.9.52
+  11:
+   Uri: 'urn:QPlatform:HMIProject'
+   Module: QPlatform.HMIProject
+   Version: 10.2.0.31
+  12:
+   Uri: 'urn:QPlatform:HMIProject:Net'
+   Module: QPlatform.HMIProject.Net
+   Version: 6.1.5.52
+  13:
+   Uri: 'urn:QPlatform:EventLogger'
+   Module: QPlatform.EventLogger
+   Version: 7.0.14.52
+  14:
+   Uri: 'urn:QPlatform:EventLogger:Net'
+   Module: QPlatform.EventLogger.Net
+   Version: 6.0.14.52
+  15:
+   Uri: 'urn:QPlatform:Datalogger'
+   Module: QPlatform.Datalogger
+   Version: 12.0.7.52
+  16:
+   Uri: 'urn:QPlatform:Datalogger:Net'
+   Module: QPlatform.Datalogger.Net
+   Version: 10.0.8.52
+  17:
+   Uri: 'urn:QPlatform:Recipe'
+   Module: QPlatform.Recipe
+   Version: 1.3.13.52
+  18:
+   Uri: 'urn:QPlatform:Recipe:Net'
+   Module: QPlatform.Recipe.Net
+   Version: 1.2.13.52
+  19:
+   Uri: 'urn:QPlatform:Alarm'
+   Module: QPlatform.Alarm
+   Version: 7.1.0.43
+  20:
+   Uri: 'urn:QPlatform:Alarm:Net'
+   Module: QPlatform.Alarm.Net
+   Version: 3.1.0.43
+  21:
+   Uri: 'urn:QPlatform:NativeUI'
+   Module: QPlatform.NativeUI
+   Version: 27.0.0.32
+  22:
+   Uri: 'urn:QPlatform:NativeUI:Net'
+   Module: QPlatform.NativeUI.Net
+   Version: 3.0.0.32
+  23:
+   Uri: 'urn:QPlatform:Store'
+   Module: QPlatform.Store
+   Version: 2.1.25.52
+  24:
+   Uri: 'urn:QPlatform:Store:Net'
+   Module: QPlatform.Store.Net
+   Version: 3.0.25.52
+  25:
+   Uri: 'urn:QPlatform:SQLiteStore'
+   Module: QPlatform.SQLiteStore
+   Version: 2.1.15.52
+  26:
+   Uri: 'urn:QPlatform:SQLiteStore:Net'
+   Module: QPlatform.SQLiteStore.Net
+   Version: 2.1.15.52
+  27:
+   Uri: 'urn:QPlatform:CommunicationDriver'
+   Module: QPlatform.CommunicationDriver
+   Version: 5.0.2.52
+  28:
+   Uri: 'urn:QPlatform:CommunicationDriver:Net'
+   Module: QPlatform.CommunicationDriver.Net
+   Version: 4.0.2.52
+  29:
+   Uri: 'urn:QPlatform:NetLogic'
+   Module: QPlatform.NetLogic
+   Version: 5.0.6.52
+  30:
+   Uri: 'urn:QPlatform:Retentivity'
+   Module: QPlatform.Retentivity
+   Version: 3.0.58.52
+  31:
+   Uri: 'urn:QPlatform:Retentivity:Net'
+   Module: QPlatform.Retentivity.Net
+   Version: 2.0.58.52
+  32:
+   Uri: 'urn:QPlatform:WebUI'
+   Module: QPlatform.WebUI
+   Version: 4.0.0.32
+  33:
+   Uri: 'urn:QPlatform:WebUI:Net'
+   Module: QPlatform.WebUI.Net
+   Version: 1.0.0.32
+  34:
+   Uri: 'urn:QPlatform:ModbusDriver'
+   Module: QPlatform.ModbusDriver
+   Version: 4.0.24.52
+  35:
+   Uri: 'urn:QPlatform:Modbus:Net'
+   Module: QPlatform.Modbus.Net
+   Version: 4.0.24.52
+  36:
+   Uri: 'urn:QPlatform:CoDeSysDriver'
+   Module: QPlatform.CoDeSysDriver
+   Version: 4.0.24.52
+  37:
+   Uri: 'urn:QPlatform:CoDeSys:Net'
+   Module: QPlatform.CoDeSys.Net
+   Version: 4.0.24.52
+ Nodes:
+ - File: Nodes/DemoUniqoCollab.yaml
